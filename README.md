@@ -8,13 +8,13 @@ AI skills distilled from expert video content, installable in any AI coding agen
 
 ```bash
 # Install a specific skill
-npx skills add TDH-Labs/i-know-kung-fu@<skill-name>
+npx skills add Vibherpunk/i-know-kung-fu@<skill-name>
 
 # Browse all available skills  
-npx skills find --owner TDH-Labs
+npx skills find --owner Vibherpunk
 ```
 
-## Available Skills (170 total)
+## Available Skills (173 total)
 
 | Skill | Description |
 |-------|-------------|
@@ -180,9 +180,12 @@ npx skills find --owner TDH-Labs
 | [ai-agent-development-k](./skills/ai-agent-development-k/SKILL.md) | A comprehensive skill for developing AI agents, focusing on observability, |
 | [ai-reputation-management-tools-which-are-the-best](./skills/ai-reputation-management-tools-which-are-the-best/SKILL.md) | Automated AI-powered review reputation management system |
 | [ai_agent_management](./skills/ai_agent_management/SKILL.md) | Comprehensive skill for managing AI agents using control planes, observability, |
+| [bpe-tokenizer-encoding-decoding](./skills/bpe-tokenizer-encoding-decoding/SKILL.md) | This skill enables the AI agent to perform both encoding (text to tokens) |
+| [bpe-tokenizer-training-implementation](./skills/bpe-tokenizer-training-implementation/SKILL.md) | This skill guides the AI agent through the practical implementation of |
 | [claude-is-running-my-entire-property-management-bu](./skills/claude-is-running-my-entire-property-management-bu/SKILL.md) | The transcript outlines a comprehensive workflow for automating property |
 | [goose-recipe-creator](./skills/goose-recipe-creator/SKILL.md) | Create, validate, and install Goose recipes — reusable YAML workflows (instructions, parameters, extensions) run via `goose run --recipe` or a deeplink. Use when the user wants to author a new recipe, turn a repeated prompt/workflow/SOP into a recipe, or fix an existing recipe file. |
 | [how-to-create-a-devsecops-ci-cd-pipeline](./skills/how-to-create-a-devsecops-ci-cd-pipeline/SKILL.md) | Implementing DevSecOps practices in a CI/CD pipeline to enhance security |
+| [llm-tokenization-fundamentals](./skills/llm-tokenization-fundamentals/SKILL.md) | This skill provides an AI agent with a foundational understanding of |
 | [make-30k-month-with-ai-content-repurposing-crazy-s](./skills/make-30k-month-with-ai-content-repurposing-crazy-s/SKILL.md) | AI Content Repurposing Service |
 | [marketing-agent-deployment](./skills/marketing-agent-deployment/SKILL.md) | Step-by-step deployment walkthrough for the self-hosted marketing agent |
 | [marketing-agents-are-too-good-now](./skills/marketing-agents-are-too-good-now/SKILL.md) | Build and deploy AI marketing agents that autonomously research, create, |
